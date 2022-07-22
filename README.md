@@ -4,8 +4,11 @@
 
 This is where I'll attempt to write an app that automates the process of signups and Timetree for INTL. This will be the first, full app that I've built and I'm excitied of the challenge to get it up and running. 
 
-This is also just a test to see if this think will actually work. It's not committing my changes! 
+## Tasks 
 
-## This is another test! 
+- Re-build the signup-genius reader and paste tool .py 
+- Build out oauth app to interface with Timetree 
+- First I need to get the oauth to read Timetree 
+- Once I can read Timetree then I can try taking the reader and adding additional variables to write 
 
-And here is another one to see if Github wants to fucking work this time! 
+I'll close it out here for the day and try and do this last commit! 
