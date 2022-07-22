@@ -15,7 +15,7 @@ r = requests.get(intl_url, headers=header)
 dfs = pd.read_html(r.text)
 df = dfs[3]
 df.drop(columns = 1, inplace = True)
+df.rename(columns = {0:'Role', 2: 'Person'} , inplace = True)
 
-df.rename(columns = {0:'Role',2:'Person'})
-print(df['Name'])
+print(df.head(15))
 
