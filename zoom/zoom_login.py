@@ -1,4 +1,8 @@
 import webbrowser
+import numpy as np
+
+cred_file = 'login.txt'
+credentials = np.loadtxt(cred_file, dtype=str)
 
 # Open zoom and make sure that it's running 
 # LOG IN in your webbrowser - this will prevent you from logging out
