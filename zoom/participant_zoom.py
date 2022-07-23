@@ -6,6 +6,9 @@ import numpy as np
 
 # Open the meeting
 
+print('Make sure you are logged into the host account!\t')
+print('Just one second and Ill pull up the meeting, script, and daily reflection for you!')
+
 url_zoom = 'https://us04web.zoom.us/j/406536344'
 webbrowser.open(url_zoom , new = 0)
 
