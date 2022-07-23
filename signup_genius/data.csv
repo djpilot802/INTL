@@ -1,21 +1,21 @@
-,Role,Person,Verb,First Person,Second Person,Third Person
-0,Sunday Greeter ,  Jackie Barber Jac Cottam ,greet(s)!,Jackie,Jac,
-1,Sunday Secretary,Randy Millar,Secretarys!,Randy,,
-2,Sunday Topic Bringer,Ricki Gage,brings topic!,Ricki,,
-3,Monday Greeter ,  Joshua Reeves   Blake Proctor Karen Cabral,greet(s)!,Joshua,Blake,Karen
-4,Monday Secretary,JoAnna S,Secretarys!,JoAnna,,
-5,Monday Topic Bringer,Brett Hooke,brings topic!,Brett,,
-6,Tuesday Greeter ,  Jackie Barber Joshua Reeves   ,greet(s)!,Jackie,Joshua,
-7,Tuesday Secretary,Jackie Barber,Secretarys!,Jackie,,
-8,Tuesday Topic Bringer,JoAnna S,brings topic!,JoAnna,,
-9,Wednesday Greeter ,  Ricki Gage JoAnna S Karen Cabral,greet(s)!,Ricki,JoAnna,Karen
-10,Wednesday Secretary,Colleen Gribben,Secretarys!,Colleen,,
-11,Thursday Greeter ,  Jackie Barber Stephie Mathis ,greet(s)!,Jackie,Stephie,
-12,Thursday Secretary,Ricki Gage,Secretarys!,Ricki,,
-13,Thursday Topic Bringer,Jesse J Gage,brings topic!,Jesse,Gage,
-14,Friday Greeter ,  Bill Collins Jac Cottam Karen Cabral,greet(s)!,Bill,Jac,Karen
-15,Friday Secretary,Jac Cottam,Secretarys!,Jac,,
-16,Friday Topic Bringer,Bill Collins,brings topic!,Bill,,
-17,Saturday Greeter ,  Jackie Barber Blake Proctor ,greet(s)!,Jackie,Blake,
-18,Saturday Secretary,Caitlin S,Secretarys!,Caitlin,,
-19,Saturday Topic Bringer,Dana P,brings topic!,Dana,,
+,Day,Role,Event Name
+0,Sunday,Greeter ,🪕 Jackie & Jac greet!
+1,Sunday,Secretary,🎤 Randy Secretarys!
+2,Sunday,Topic Bringer,🎸 Ricki brings topic!
+3,Monday,Greeter ,"🪕 Joshua, Blake & Karen greet!"
+4,Monday,Secretary,🎤 JoAnna Secretarys!
+5,Monday,Topic Bringer,🎸 Brett brings topic!
+6,Tuesday,Greeter ,🪕 Jackie & Joshua greet!
+7,Tuesday,Secretary,🎤 Jackie Secretarys!
+8,Tuesday,Topic Bringer,🎸 JoAnna brings topic!
+9,Wednesday,Greeter ,"🪕 Ricki, JoAnna & Karen greet!"
+10,Wednesday,Secretary,🎤 Colleen Secretarys!
+11,Thursday,Greeter ,🪕 Jackie & Stephie greet!
+12,Thursday,Secretary,🎤 Ricki Secretarys!
+13,Thursday,Topic Bringer,🎸 Jesse brings topic!
+14,Friday,Greeter ,"🪕 Bill, Jac & Karen greet!"
+15,Friday,Secretary,🎤 Jac Secretarys!
+16,Friday,Topic Bringer,🎸 Bill brings topic!
+17,Saturday,Greeter ,🪕 Jackie & Blake greet!
+18,Saturday,Secretary,🎤 Caitlin Secretarys!
+19,Saturday,Topic Bringer,🎸 Dana brings topic!
