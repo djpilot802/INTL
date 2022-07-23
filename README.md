@@ -7,7 +7,8 @@ This app helps to automate and speed-up actions associated with the INTL group. 
 ## Installing Python on your Machine
 
 - Navigate to https://www.python.org/downloads/
-- Install the appropriate python bundle for your machine! 
+- Install the appropriate python bundle for your machine!
+- In the command prompt ensure you have the required libraries. To do this you can type pip install -r requirements.txt
 
 ## Use 
 
