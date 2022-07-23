@@ -1,4 +1,5 @@
 from requests_oauthlib import OAuth2Session
+from requests.auth import HTTPBasicAuth
 from flask import Flask, request, redirect, session, url_for
 from flask.json import jsonify
 import os
@@ -20,20 +21,6 @@ def demo():
 
     session['oauth_state'] = state
     return redirect(authorization_url)
-
-@app.route('/callback', methods = ["GET"])
-def callback(): 
-    timetree = OAuth2Session(client_id, state=session['oauth_state'])
-    token = timetree.fetch_token(token_url, client_secret=client_secret, authorization_response=request.url)
-
-    session['oauth_token'] = token
-    return redirect(url_for('.profile'))
-
-@app.route("/profile", methods=["GET"])
-def profile():
-
-    timetree = OAuth2Session(client_id, token=session['oauth_token'])
-    return jsonify(timetree.get('https://timetreeapp.com/oauth/calendar').json())
 
 if __name__ == "__main__":
     # This allows us to use a plain HTTP callback
