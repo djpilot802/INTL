@@ -17,6 +17,7 @@ This app helps to automate and speed-up actions associated with the INTL group. 
 1. Ensure that you're logged into Zoom on your webbrowser. 
 2. Select the zoom folder or in the cmd cd/Desktop/Projects/intl/zoom
 3. Run the python file! cmd python zoom_login.py
+4. This will launch the meeting if you're logged in, and open the INTL script and daily reflection. 
 
 ## Completed 
 
