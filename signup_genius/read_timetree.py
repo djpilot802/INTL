@@ -109,5 +109,5 @@ df = df[['Day','Role','Event Name']]
 # Exporting File to .csv
 
 print("Data exporting...")
-df.to_csv(r'signup_genius\data_test.csv')
+df.to_csv(r'signup_genius\data.csv')
 print("Data exported to signup_genius folder. Check for file named data.csv.")
