@@ -2,7 +2,20 @@
 
 # Welcome to the INTL App 
 
-This is where I'll attempt to write an app that automates the process of signups and Timetree for INTL. This will be the first, full app that I've built and I'm excitied of the challenge to get it up and running. 
+This app helps to automate and speed-up actions associated with the INTL group. Happy that you're joing. It's currently a work in progress and I'm making daily updated until a complete and viable first product is finished. 
+
+## Installing Python on your Machine
+
+- Navigate to https://www.python.org/downloads/
+- Install the appropriate python bundle for your machine! 
+
+## Use 
+
+### Automating Zoom Login 
+
+1. Ensure that you're logged into Zoom on your webbrowser. 
+2. Select the zoom folder or in the cmd cd/Desktop/Projects/intl/zoom
+3. Run the python file! cmd python zoom_login.py
 
 ## Completed 
 
