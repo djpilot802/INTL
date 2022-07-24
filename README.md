@@ -28,15 +28,12 @@ $ python zoom_login.py
 
 4. This will launch the meeting if you're logged in, and open the INTL script and daily reflection. 
 
-## Completed 
+## To Do: 
 
 - [x] Read Signup genius and convert to frame 
 - [x] Remove unnecessary values and text errors like signup and slots added 
 - [x] Split names into three individuals 
 - [x] Started oauth process, but it keeps re-directing endlessly
-
-## Remaining Tasks 
-
 - [ ]Get oauth that autorizes successful with Timetree
 - [ ]Read calendar and events
 - [ ]Modify signup genius reader to add additional variables
