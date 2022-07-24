@@ -38,8 +38,9 @@ $ python zoom_login.py
 - [x] Started oauth process, but it keeps re-directing endlessly
 - [x] Obtain an access token
 - [x] Complete OAuth App
-- [ ] Read members json data into df
+- [x] Read members json data into df
+- [x] Read events from jason data into df
 - [ ] Complete date and day functions 
-- [ ] Write completed dataframe to Timetree 
+- [ ] Write completed dataframe to Timetree - this is going to take a very long time and be complicated
 - [ ] Improve and automate
 - [ ] Determine the right path forward for new releases

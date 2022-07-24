@@ -1,6 +1,7 @@
 import requests 
 import json
-from credentials import headers
+from credentials import headers_jac
+import pandas as pd
 
 # TIMETREE DEV API : https://developers.timetreeapp.com/en/docs/api/oauth-app#list-members
 
@@ -10,7 +11,8 @@ payload = {
     "incude":"labels, members"
 }
 
-r = requests.get(url, headers = headers)
+
+r = requests.get(url, headers = headers_jac)
 
 print(r.text)
 # t = json.dumps(r.json(), indent = 4)
