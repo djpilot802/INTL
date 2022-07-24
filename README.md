@@ -34,6 +34,7 @@ $ python zoom_login.py
 - [x] Remove unnecessary values and text errors like signup and slots added 
 - [x] Split names into three individuals 
 - [x] Started oauth process, but it keeps re-directing endlessly
+- [x] Obtain an access token
 - [ ] Complete OAuth App
 - [ ] Complete date and day functions 
 - [ ] Write completed dataframe to Timetree 
