@@ -4,3 +4,4 @@ credentials.py
 __pycache__
 .DS_Store
 token.py
+db

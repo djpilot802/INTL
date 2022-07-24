@@ -48,7 +48,7 @@ df['Person'] = df['Person'].str.replace('Jesse J Gage','Jesse Gage')
 df['Role'] = df['Role'].str.split('(').str[0]
 
 # %%
-# Adding emoji for event name
+# Adding emoji for data:attributes:title
 
 emoji = []
 
@@ -70,7 +70,7 @@ for i in df['Role']:
 df['Emoji'] = emoji
 
 # %%
-# Adding verb for event name
+# Adding verb for data:attributes:title
 
 verb = []
 
@@ -93,9 +93,9 @@ df = df.fillna('')
 df['Combined'] = df['first'] + " " + df['second'] + " " + df['third']
 df['Count'] = df['Combined'].str.split().str.len()
 
-df.loc[df['Count'] == 3, 'Event Name'] = df['Emoji'] + df['first'] + ", " + df['second'] + " & " + df['third'] + " " + df['Verb']
-df.loc[df['Count'] == 2, 'Event Name'] = df['Emoji'] + df['first'] + " & " + df['second'] + " " + df['Verb']
-df.loc[df['Count'] == 1, 'Event Name'] = df['Emoji'] + df['first'] + " " +  df['Verb']
+df.loc[df['Count'] == 3, 'data:attributes:title'] = df['Emoji'] + df['first'] + ", " + df['second'] + " & " + df['third'] + " " + df['Verb']
+df.loc[df['Count'] == 2, 'data:attributes:title'] = df['Emoji'] + df['first'] + " & " + df['second'] + " " + df['Verb']
+df.loc[df['Count'] == 1, 'data:attributes:title'] = df['Emoji'] + df['first'] + " " +  df['Verb']
 
 # %%
 # Cleaning for export 
@@ -103,11 +103,11 @@ df.loc[df['Count'] == 1, 'Event Name'] = df['Emoji'] + df['first'] + " " +  df['
 df['Day'] = df['Role'].str.split().str[0]
 df['Role'] = df['Role'].str.split(" ", 1).str[1]
 df.drop(columns={'Person','Verb','first','second','third','Combined','Count','Emoji'} , inplace = True)
-df = df[['Day','Role','Event Name']]
+df = df[['Day','Role','data:attributes:title']]
 
 # %%
 # Exporting File to .csv
 
 print("Data exporting...")
-df.to_csv(r'signup_genius\data.csv')
+df.to_csv('data.csv')
 print("Data exported to signup_genius folder. Check for file named data.csv.")
