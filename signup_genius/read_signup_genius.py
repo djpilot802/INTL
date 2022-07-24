@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
 # %%
 import requests 
 import pandas as pd
@@ -104,10 +110,33 @@ df['Day'] = df['Role'].str.split().str[0]
 df['Role'] = df['Role'].str.split(" ", 1).str[1]
 df.drop(columns={'Person','Verb','first','second','third','Combined','Count','Emoji'} , inplace = True)
 df = df[['Day','Role','data:attributes:title']]
+df.head()
+
+
+# In[6]:
+
+
+script_url = 'https://docs.google.com/document/d/1tVsWegpQ8LR7J20m8sRVA9z-XuKPzDwX7d8yQER-X1c/edit?usp=sharing'
+zoom_url = 'https://us04web.zoom.us/j/406536344'
+df.head()
+
+url = []
+
+for i in df['Role']: 
+    if 'Greeter' in i:
+        i = zoom_url
+    elif 'Topic' in i: 
+        i = zoom_url
+    elif 'Secretary' in i: 
+        i = script_url
+    url.append(i)
+
+df['url'] = url
+df.head(40)
 
 # %%
 # Exporting File to .csv
 
 print("Data exporting...")
-df.to_csv('data.csv')
-print("Data exported to signup_genius folder. Check for file named data.csv.")
+df.to_csv(r'/Users/jaccottam/Desktop/Projects/INTL/db/timetree.csv')
+print("Data exported to db Check for file named timetree.csv.")
