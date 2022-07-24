@@ -34,7 +34,4 @@ $ python zoom_login.py
 - [x] Remove unnecessary values and text errors like signup and slots added 
 - [x] Split names into three individuals 
 - [x] Started oauth process, but it keeps re-directing endlessly
-- [] Get oauth that autorizes successful with Timetree
-- [] Read calendar and events
-- [] Modify signup genius reader to add additional variables
-- [] Write calendar and events 
+- [ ] Empty checkbox!
