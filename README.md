@@ -35,7 +35,8 @@ $ python zoom_login.py
 - [x] Split names into three individuals 
 - [x] Started oauth process, but it keeps re-directing endlessly
 - [x] Obtain an access token
-- [ ] Complete OAuth App
+- [x] Complete OAuth App
+- [ ] Read members json data into df
 - [ ] Complete date and day functions 
 - [ ] Write completed dataframe to Timetree 
 - [ ] Improve and automate
