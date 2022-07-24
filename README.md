@@ -4,6 +4,8 @@
 
 This app helps to automate and speed-up actions associated with the INTL group. Happy that you're joing. It's currently a work in progress and I'm making daily updated until a complete and viable first product is finished. 
 
+This is currently in an **alpha** pre-release phase and is being updated regulary. 
+
 ## Installing Python on your Machine
 
 - Navigate to https://www.python.org/downloads/
