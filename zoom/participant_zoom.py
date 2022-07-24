@@ -6,16 +6,29 @@ import numpy as np
 
 # Open the meeting
 
-print('Make sure you are logged into the host account!\t')
-print('Just one second and Ill pull up the meeting, script, and daily reflection for you!')
+print('BOOTING UP UP UP....')
+print('Have you logged into zoom on your web browser? If not - just go to:\t')
+print('https://zoom.us/\t')
+print('Now type anything to continue')
 
-url_zoom = 'https://us04web.zoom.us/j/406536344'
+input()
+
+url_zoom = 'https://us04web.zoom.us/j/406536344?pwd=easyDoesit'
 webbrowser.open(url_zoom , new = 0)
 
-# Open the script and daily reflection
-
+print('Paste below passcode in zoom:\t')
+print('\t')
+print('easyDoesit')
+print('\t')
+print('Want to open the script and daily reflections? (TYPE Y or N)\t')
+print('\t')
+response = input()
 url_drive = 'https://docs.google.com/document/d/1tVsWegpQ8LR7J20m8sRVA9z-XuKPzDwX7d8yQER-X1c/view'
 url_dr  = 'https://www.aa.org/pages/en_US/daily-reflection'
 
-webbrowser.open(url_drive, new = 0)
-webbrowser.open(url_dr, new = 0)
+if response == 'Y': 
+    webbrowser.open(url_drive, new = 0)
+    webbrowser.open(url_dr, new = 0)
+else: 
+    print('\n')
+    print('Got it, thanks! Enjoy the meeting!')
