@@ -8,7 +8,11 @@ This app helps to automate and speed-up actions associated with the INTL group. 
 
 - Navigate to https://www.python.org/downloads/
 - Install the appropriate python bundle for your machine!
-- In the command prompt ensure you have the required libraries. To do this you can type pip install -r requirements.txt
+- In the command prompt ensure you have the required libraries: 
+
+ ```bash
+$ pip install -r requirements.txt
+```
 
 ## Use 
 
@@ -17,18 +21,23 @@ This app helps to automate and speed-up actions associated with the INTL group. 
 1. Ensure that you're logged into Zoom on your webbrowser. 
 2. Select the zoom folder or in the cmd cd/Desktop/Projects/intl/zoom
 3. Run the python file! cmd python zoom_login.py
+
+```bash 
+$ python zoom_login.py
+```
+
 4. This will launch the meeting if you're logged in, and open the INTL script and daily reflection. 
 
 ## Completed 
 
-- Read Signup genius and convert to frame 
-- Remove unnecessary values and text errors like signup and slots added 
-- Split names into three individuals 
-- Started oauth process, but it keeps re-directing endlessly
+- [x] Read Signup genius and convert to frame 
+- [x] Remove unnecessary values and text errors like signup and slots added 
+- [x] Split names into three individuals 
+- [x] Started oauth process, but it keeps re-directing endlessly
 
 ## Remaining Tasks 
 
-- Get oauth that autorizes successful with Timetree
-- Read calendar and events
-- Modify signup genius reader to add additional variables
-- Write calendar and events 
+- [ ]Get oauth that autorizes successful with Timetree
+- [ ]Read calendar and events
+- [ ]Modify signup genius reader to add additional variables
+- [ ]Write calendar and events 
