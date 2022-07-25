@@ -39,12 +39,21 @@
 .button5 {background-color: #555555;} /* Black */
 </style>
 </head>
+</script>
+
+<script type="text/javascript">
+function open_win() {
+    window.open("https://us04web.zoom.us/j/406536344","blank")
+    window.open("https://docs.google.com/document/d/1tVsWegpQ8LR7J20m8sRVA9z-XuKPzDwX7d8yQER-X1c/view","blank")
+    window.open("https://www.aa.org/daily-reflections","blank")
+}
+</script>
     <title>"INTL Web Application"</title>
     <body id="example"> 
-      <form  method = "post">
+      <form  method = "post"><input type=button value="Open Windows" onclick="open_win()">
         <h1>Welcome to the INTL Web Application!</h1>
         <p>Click on the button below to login to the meeting as a host.</p>
-        <div><a href="meeting_login"><button type="button" class="button">Login as <strong>Host</strong></button>
+        <div><button type="button" class="button">Login as <strong>Host</strong></button>
         </a></div>
         <p>Click on the button below to login to the meeting as a participant.</p>
         <div><a href="meeting_login"><button type="button" class="button2">Login as <strong>Participant</strong></button>
