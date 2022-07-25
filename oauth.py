@@ -1,7 +1,9 @@
 from requests_oauthlib import OAuth2Session
 from requests.auth import HTTPBasicAuth
-from flask import Flask, request, redirect, session, url_for
+from flask import Flask, request, redirect, session, url_for , render_template
 from flask.json import jsonify
+import host_zoom
+import webbrowser
 #from credentials import client_id, client_secret
 import os
 
@@ -32,10 +34,21 @@ redirect_uri = 'http://127.0.0.1:5000'
 #     print(token)
 #     return 'Check command prompt for token.'
 
-@app.route('/zoom')
+# Must use render html template on the below! 
+@app.route('/zoom/')
 def zoom():
-    return ('<h1>This is where you will be able to log in to Zoom with a click!</h1>')
+    return render_template("index.html")
 
+@app.route('/meeting_login', methods=['GET','POST'])
+def meeting_login():
+    if request.method == 'POST':
+        url_zoom = 'https://us04web.zoom.us/j/406536344'
+        webbrowser.open(url_zoom , new = 2)
+        url_drive = 'https://docs.google.com/document/d/1tVsWegpQ8LR7J20m8sRVA9z-XuKPzDwX7d8yQER-X1c/view'
+        url_dr  = 'https://www.aa.org/pages/en_US/daily-reflection'
+        webbrowser.open(url_drive, new = 2)
+        webbrowser.open(url_dr, new = 2)
+    return "Have a nice meeting!"
 if __name__ == "__main__":
     # This allows us to use a plain HTTP callback
     os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = "1"
