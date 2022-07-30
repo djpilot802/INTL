@@ -39,16 +39,6 @@ redirect_uri = 'http://127.0.0.1:5000'
 def zoom():
     return render_template("index.html")
 
-@app.route('/meeting_login', methods=['GET','POST'])
-def meeting_login():
-    if request.method == 'POST':
-        url_zoom = 'https://us04web.zoom.us/j/406536344'
-        webbrowser.open(url_zoom , new = 2)
-        url_drive = 'https://docs.google.com/document/d/1tVsWegpQ8LR7J20m8sRVA9z-XuKPzDwX7d8yQER-X1c/view'
-        url_dr  = 'https://www.aa.org/pages/en_US/daily-reflection'
-        webbrowser.open(url_drive, new = 2)
-        webbrowser.open(url_dr, new = 2)
-    return "Have a nice meeting!"
 if __name__ == "__main__":
     # This allows us to use a plain HTTP callback
     os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = "1"
