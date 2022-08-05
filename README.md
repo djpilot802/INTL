@@ -25,7 +25,11 @@ $ pip install -r requirements.txt
 3. Run the python file! cmd python zoom_login.py
 
 ```bash 
-$ python zoom_login.py
+python participant_zoom.py
+```
+Alternatively, you could just execute the below: 
+```bash 
+python Desktop/Projects/intl/zoom/participant_zoom.py
 ```
 
 4. This will launch the meeting if you're logged in, and open the INTL script and daily reflection. 
