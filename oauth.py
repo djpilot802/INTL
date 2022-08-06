@@ -2,8 +2,6 @@ from requests_oauthlib import OAuth2Session
 from requests.auth import HTTPBasicAuth
 from flask import Flask, request, redirect, session, url_for , render_template
 from flask.json import jsonify
-import host_zoom
-import webbrowser
 #from credentials import client_id, client_secret
 import os
 
@@ -17,22 +15,24 @@ app.config['SESSION_COOKIE_NAME'] = 'Jacs Cookie'
 authorization_base_url = 'https://timetreeapp.com/oauth/authorize'
 token_url = 'https://timetreeapp.com/oauth/token'
 redirect_uri = 'http://127.0.0.1:5000'
+client_id = 'zIUbA9gQsAGagOf-685W4U-7Jimpse98CuyG7b2Iz44'
+client_secret = 'msBrd7BVUCF-4bo_wPT7WGV3Zr6zulZt498xWIdMlWY'
 
-# @app.route('/auth')
-# def demo():
-#     timetree = OAuth2Session(client_id=client_id, redirect_uri=redirect_uri)
-#     authorization_url, state = timetree.authorization_url(authorization_base_url)
-#     session['oauth_state'] = state
-#     return redirect(authorization_url)
+@app.route('/auth')
+def demo():
+    timetree = OAuth2Session(client_id=client_id, redirect_uri=redirect_uri)
+    authorization_url, state = timetree.authorization_url(authorization_base_url)
+    session['oauth_state'] = state
+    return redirect(authorization_url)
 
-# @app.route('/')
-# def accept(): 
-#     timetree = OAuth2Session(client_id, redirect_uri=redirect_uri, state=session['oauth_state'])
-#     token = timetree.fetch_token(token_url, client_secret=client_secret, authorization_response=request.url)
-#     session['oauth_token'] = token
-#     print('Token has been stored:\t')
-#     print(token)
-#     return 'Check command prompt for token.'
+@app.route('/')
+def accept(): 
+    timetree = OAuth2Session(client_id, redirect_uri=redirect_uri, state=session['oauth_state'])
+    token = timetree.fetch_token(token_url, client_secret=client_secret, authorization_response=request.url)
+    session['oauth_token'] = token
+    print('Token has been stored:\t')
+    print(token)
+    return 'Check command prompt for token.'
 
 # Must use render html template on the below! 
 @app.route('/zoom/')
