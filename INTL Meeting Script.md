@@ -77,7 +77,7 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 
 # The Daily Reflection
 
-**Now someone will read today's <a href = "https://www.aa.org/pages/en_US/daily-reflection">Daily Reflection</a>**
+**Now someone will read today's <a href = "https://www.aa.org/pages/en_US/daily-reflection" target="_blank">Daily Reflection</a>**
 
 **after daily reflection is read, stop screen sharing**
 
@@ -93,6 +93,8 @@ Glad everyone is here; keep coming back!
 
 Everyone who is available to sponsor please raise your hand and write your number in the group chat. Thank you for your service!
 
+
+**Paste below in the meeting chat:**
 ```
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
