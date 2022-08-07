@@ -28,7 +28,7 @@ Now someone will volunteer to read “How it Works” from the A.A. Big Book, wh
 
 **Share screen for readers**
 
-# How it Works 
+<details><summary># How it Works</summary>
 
 Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest. 
 
@@ -57,6 +57,8 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 - (a) That we were alcoholic and could not manage our own lives. 
 - (b) That probably no human power could have relieved our alcoholism. 
 - (c) That God could and would if He were sought. 
+
+</details>
 
 **Now a friend will read the 12 Traditions**
 
