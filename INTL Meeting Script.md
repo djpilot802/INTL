@@ -93,6 +93,74 @@ Glad everyone is here; keep coming back!
 
 Everyone who is available to sponsor please raise your hand and write your number in the group chat. Thank you for your service!
 
+## Everyday Script 
+
+Here at the It’s Not Too Late meeting, someone brings a topic and then selects someone to share. Then that person picks on someone else to share… and so on. If you have a desire to share, please raise your virtual hand or speak up after a share. 
+
+> *When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?*
+
+We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.
+
+Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
+I will now turn the meeting over to our Topic Bringer to present the topic, to share on the topic, and then to pass it on to someone else.
+
+## Script for Wednesday's Literature Study
+
+Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book and the 12&12. We will pick up where we left off two weeks ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else.. and so on. 
+
+>*When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.*
+
+If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?
+
+Before we get started, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
+
+**Post Links in Chat**
+
+```
+Big Book PDF: 
+
+https://www.aa.org/pages/en_us/alcoholics-anonymous
+
+12&12 PDF: 
+
+https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
+
+```
+
+## Script fo Speaker Meeting: 
+
+Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. 
+
+Before I pass it to our speaker seeker, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
+Okay, I will now turn the meeting over to our Speaker Seeker, Jackie.
+
+**Script at 11:20 - 11:25PM**
+>*The secretary may use discretion when closing the meeting, and can begin closing out between 11:20 and 11:25pm*
+
+### Most Days 
+
+Thank you ______ for bringing the topic and thank you all for being here.
+
+### Wednesdays: 
+
+Thank you all for being here.
+
+### First Saturday of Every Month: 
+
+First Saturday of the Month: Thank you ___ so much for sharing your story with us tonight. We appreciate your willingness to freely give your experience, strength, and hope. And thank you everyone for showing up to show your support. Let’s give them a(nother) round of applause. (pause for people to unmute to clap and say thank you)
+
+## Back to Script
+
+Before we start to close out the meeting, does anyone have a burning desire? By that we mean a desire to drink or use, or a desire to hurt themselves or someone else.
+
+________, will you please present the virtual chips tonight?
+
+>*If the chip presenter has not done so - ask for a show of hands of those that have a year or more of sobriety and offer a white chip one more time*
+
+There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. Is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety. If you would like to contribute to our 7th tradition basket, we will post the meeting’s Cash App username in the chat shortly.  
+
+Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?
+
 
 **Paste below in the meeting chat:**
 ```
@@ -103,6 +171,28 @@ Service Work Signup: https://bit.ly/3v9aFO7
 INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
 
+Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
+
+# The Promises 
+
+If we are painstaking about this phase of our development, 
+we will be amazed before we are halfway through.
+We are going to know a new freedom and a new happiness.
+We will not regret the past nor wish to shut the door on it.
+We will comprehend the word serenity and we will know peace.
+No matter how far down the scale we have gone, 
+we will see how our experience can benefit others.
+That feeling of uselessness and self-pity will disappear.
+We will lose interest in selfish things and gain interest in our fellows.
+Self-seeking will slip away.
+Our whole attitude and outlook upon life will change.
+Fear of people and of economic insecurity will leave us.
+We will intuitively know how to handle situations 
+which used to baffle us.
+We will suddenly realize that God is doing for us 
+what we could not do for ourselves.
+Are these extravagant promises? We think not. 
+They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them.
 
 
 
