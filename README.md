@@ -48,7 +48,7 @@ itsnottoolate1030@gmail.com
 itsnotTOOlate8
 ```
 
-Pasting into Timetree: 
+**Pasting into Timetree:**
 
 ```
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
