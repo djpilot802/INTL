@@ -36,13 +36,15 @@ python Desktop/Projects/intl/zoom/participant_zoom.py
 
 ## Logging into the Meeting
 
-**You can use the username:**
+**Log into [Zoom](https://zoom.us/) first**
+
+**Username:**
 
 ```
 itsnottoolate1030@gmail.com
 ```
 
-**You can use the below password:**
+**Password:**
 
 ```
 itsnotTOOlate8
