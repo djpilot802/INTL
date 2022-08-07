@@ -34,6 +34,29 @@ python Desktop/Projects/intl/zoom/participant_zoom.py
 
 4. This will launch the meeting if you're logged in, and open the INTL script and daily reflection. 
 
+## Logging into the Meeting
+
+You can use the username: 
+
+```
+itsnottoolate1030@gmail.com
+```
+
+You can use the below password: 
+
+```
+itsnotTOOlate8
+```
+
+Pasting into Timetree: 
+
+```
+It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
+
+Service Work Signup: https://bit.ly/3v9aFO7
+
+INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
+```
 ## To Do: 
 
 - [x] Read Signup genius and convert to frame 
