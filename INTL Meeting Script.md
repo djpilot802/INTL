@@ -2,7 +2,7 @@
 
 ## To the greeters and secretary: 
 
-To sign in to the group account: username: itsnottoolate1030@gmail.com & password: itsnotTOOlate8 (signing in this way will make you a "host" or "co-host," which allows you to monitor the waiting roomm & mute others if they forgot to mute)
+To sign in to the group account: username: xxxx & password: xxxx (signing in this way will make you a "host" or "co-host," which allows you to monitor the waiting roomm & mute others if they forgot to mute)
 
 [Sign into Meeting](https://us04web.zoom.us/j/406536344)
 
