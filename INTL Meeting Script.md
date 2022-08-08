@@ -1,6 +1,6 @@
 # INTL Meeting Script 
 
-## Greeter & Secretary Notes: 
+### Greeter & Secretary Notes: 
 
 To sign in to the group account: 
 
@@ -10,12 +10,12 @@ To sign in to the group account:
 - Rename yourself to reflect your actual name
 - If you receive any error messages, reach out to the group for help
 
-## Greeter Intructions: 
+#### Greeter Intructions: 
 
 - Admit people when they enter the waiting room
 - Greet people as they enter the meeting (once audio is connected)
 
-## Preventing Zoom Bombing:
+#### Preventing Zoom Bombing:
 
 > A “zoom bombing” is when someone interrupts the meeting with visual or auditory harassment. This often comes in the form of screaming obscenities or displaying inappropriate imagery.
 
@@ -41,7 +41,7 @@ If you recognize that a zoom bombing is occurring:
 >- The Promises 
 >- Chips 
 
-**Using this Script:**
+#### Using this Script:
 >Mac Users: 
 >- ⌘ & + to zoom in
 >- ⌘ & - to zoom out
@@ -187,7 +187,7 @@ Before I pass it to our speaker seeker, is anyone having a desire to drink today
 
 Okay, I will now turn the meeting over to our Speaker Seeker, Jackie.
 
-**Script at 11:20 - 11:25PM**
+## Script at 11:20 - 11:25PM
     
 >The secretary may use discretion when closing the meeting, and can begin closing out between 11:20 and 11:25pm
 
@@ -203,7 +203,7 @@ Thank you all for being here.
 
 First Saturday of the Month: Thank you ___ so much for sharing your story with us tonight. We appreciate your willingness to freely give your experience, strength, and hope. And thank you everyone for showing up to show your support. Let’s give them a(nother) round of applause. (pause for people to unmute to clap and say thank you)
 
-## Back to Script
+## Script
 
 Before we start to close out the meeting, does anyone have a burning desire? By that we mean a desire to drink or use, or a desire to hurt themselves or someone else.
 
@@ -273,4 +273,3 @@ That where there are shadows, I may bring light.
 That where there is sadness, I may bring joy. 
 Lord, grant that I may seek rather to comfort, than to be comforted. To Understand, than to be understood. To love, than to be loved. For it is by self-forgetting that one finds. It is by forgiving that one is forgiven. 
 It is by dying that one awakens to eternal life. Amen.
-
