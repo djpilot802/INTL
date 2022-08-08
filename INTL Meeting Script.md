@@ -6,8 +6,8 @@ To sign in to the group account: username: xxxx & password: xxxx (signing in thi
 
 [Sign into Meeting](https://us04web.zoom.us/j/406536344)
 
->**To the Secretary:**
->
+**To the Secretary:**
+
 >Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
 >
 >- How it Works 
@@ -15,6 +15,15 @@ To sign in to the group account: username: xxxx & password: xxxx (signing in thi
 >- The Daily Reflection 
 >- The Promises 
 >- Chips 
+
+**Using this Script:**
+>Mac Users: 
+>- ⌘ & + to zoom in, ⌘ & - to zoom out 
+>- ⌘ click on the Daily Reflection to open in a new tab
+>
+>Windows Users:
+>- Ctrl & + to zoom in, Ctrl & - to zoom out 
+>- Ctrl click the Daily Reflection to open in a new tab
 
 # It's Not Too Late Meeting Script 
 
