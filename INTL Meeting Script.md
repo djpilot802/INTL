@@ -1,3 +1,7 @@
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
+
 # INTL Meeting Script 
 
 ## To the greeters and secretary: 
@@ -69,9 +73,9 @@ Many of us exclaimed, “What an order! I can’t go through with it.” Do not 
 
 Our description of the alcoholic, the chapter to the agnostic and our personal adventures before and after make clear three pertinent ideas: 
 
-- (a) That we were alcoholic and could not manage our own lives. 
-- (b) That probably no human power could have relieved our alcoholism. 
-- (c) That God could and would if He were sought. 
+<ul>A.  That we were alcoholic and could not manage our own lives. </ul>
+<ul>B.  That probably no human power could have relieved our alcoholism. </ul>
+<ul>C.  That God could and would if He were sought.</ul>
 
 **Now a friend will read the 12 Traditions**
 
