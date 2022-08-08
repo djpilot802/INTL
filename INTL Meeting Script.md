@@ -106,9 +106,9 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 \
 \
 ___
-<br>
-Thank you readers.\  
-\
+    
+Thank you readers.    
+
 Is anyone here in their first 90 days of sobriety? 
 
 >Pause for people to speak and to look for raised hands
