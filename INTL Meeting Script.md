@@ -1,14 +1,33 @@
 # INTL Meeting Script 
 
-## To the greeters and secretary: 
+## Greeter & Secretary Notes: 
 
 To sign in to the group account: 
 
 - Check the TimeTree for credentials
 - Sign in as the INTL account
 - Signing in this way will make you a "host" or "co-host," which allows you to monitor the waiting roomm & mute others if they forgot to mute
+- Rename yourself to reflect your actual name
+- If you receive any error messages, reach out to the group for help
 
-**The link below will start the meeting:**
+## Greeter Intructions: 
+
+- Admit people when they enter the waiting room
+- Greet people as they enter the meeting (once audio is connected)
+
+## Preventing Zoom Bombing:
+
+> A “zoom bombing” is when someone interrupts the meeting with visual or auditory harassment. This often comes in the form of screaming obscenities or displaying inappropriate imagery.
+
+ - Monitor people that enter the meeting from the waiting room without video on in order to decrease the chance of a “zoom bombing.” Especially watch anyone entering with an unusual username and/or a name you do not recognize.
+ - Once the meeting begins click on 'security' and uncheck 'allow participants to rename themselves' 
+
+If you recognize that a zoom bombing is occurring:
+
+- If you immediately know who it is, click on the individual and “remove from meeting” - this will kick the person out of the meeting and not allow them to reenter.
+- If you are not immediately sure who it is, click the “security” button and click 'suspend participant activity' and then remove the person from the meeting.
+
+**Click the link below to sign directly into the meeting:**
 
 [Sign into Meeting](https://us04web.zoom.us/j/406536344)
 
@@ -34,6 +53,8 @@ To sign in to the group account:
 >- Ctrl & - to zoom out
 >- Ctrl & 0 to reset zoom
 >- Ctrl click the Daily Reflection to open in a new tab
+
+Thanks for being a part of INTL, and we hope you have a great meeting! The script starts directly below.
 
 # It's Not Too Late Meeting Script 
 
