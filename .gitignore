@@ -5,4 +5,4 @@ __pycache__
 token.py
 db
 venv
-timetree/credentials.py
+time_tree/credentials.py
