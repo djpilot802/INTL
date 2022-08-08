@@ -8,13 +8,13 @@ To sign in to the group account: username: itsnottoolate1030@gmail.com & passwor
 
 ## To the Secretary...
 
-Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
-
-- How it Works 
-- The Traditions 
-- The Daily Reflection 
-- The Promises 
-- Chips 
+>Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
+>
+>- How it Works 
+>- The Traditions 
+>- The Daily Reflection 
+>- The Promises 
+>- Chips 
 
 # It's Not Too Late Meeting Script 
 
