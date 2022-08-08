@@ -126,8 +126,8 @@ Here at the It’s Not Too Late meeting, someone brings a topic and then selects
 >When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
 <br>
-We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. 
-
+We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.    
+    
 Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)  
 
 I will now turn the meeting over to our Topic Bringer to present the topic, to share on the topic, and then to pass it on to someone else.
