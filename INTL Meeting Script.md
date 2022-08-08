@@ -104,9 +104,8 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 <br>
 ___
 <br>
-<br>
 Thank you readers... 
-
+<br>
 Is anyone here in their first 90 days of sobriety? (pause for people to speak and to look for raised hands)
 
 Is this anyone’s first time at this meeting? (pause for people to speak and to look for raised hands)
@@ -138,7 +137,7 @@ Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Stu
 
 <br>
 If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?
-
+<br>
 Before we get started, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
 
 **Post Links in Chat**
