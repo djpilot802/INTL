@@ -129,7 +129,7 @@ https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
 
 ```
 
-## Script fo Speaker Meeting: 
+## Script for Speaker Meeting: 
 
 Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. 
 
