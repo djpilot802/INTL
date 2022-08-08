@@ -68,8 +68,6 @@ and Wisdom to know the difference.
 AA is a fellowship of people who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover from alcoholism. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussions to our problem with alcohol. And, most importantly, to the solution.
 Now someone will volunteer to read “How it Works” from the A.A. Big Book, which I will share on the screen…     
 
-___
-
  # How it Works
 
 Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest. 
@@ -213,10 +211,10 @@ ________, will you please present the virtual chips tonight?
 
 There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. Is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety. If you would like to contribute to our 7th tradition basket, we will post the meeting’s Cash App username in the chat shortly.  
 
-Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?
+Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?    
 
+**Paste below in the meeting chat:**   
 
-**Paste below in the meeting chat:**
 ```ruby
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
@@ -226,8 +224,6 @@ INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
 
 Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
-
-___
 
 # The Promises 
 
