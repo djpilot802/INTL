@@ -28,9 +28,7 @@ and Wisdom to know the difference.
 AA is a fellowship of people who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover from alcoholism. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussions to our problem with alcohol. And, most importantly, to the solution.
 Now someone will volunteer to read “How it Works” from the A.A. Big Book, which I will share on the screen…     
 
-**Share screen for readers**
-
-<details><summary># How it Works</summary>
+ # How it Works
 
 Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest. 
 
