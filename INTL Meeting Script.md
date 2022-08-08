@@ -120,9 +120,8 @@ Everyone who is available to sponsor please raise your hand and write your numbe
 
 ## Everyday Script 
 
-Here at the It’s Not Too Late meeting, someone brings a topic and then selects someone to share. Then that person picks on someone else to share… and so on. If you have a desire to share, please raise your virtual hand or speak up after a share. 
-<br>
-<br>
+Here at the It’s Not Too Late meeting, someone brings a topic and then selects someone to share. Then that person picks on someone else to share… and so on. If you have a desire to share, please raise your virtual hand or speak up after a share.    
+
 >When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
 <br>
@@ -157,15 +156,18 @@ https://www.aa.org/pages/en_us/alcoholics-anonymous
 https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
 
 ```
-
 ## Script for Speaker Meeting: 
 
 Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. 
 
-Before I pass it to our speaker seeker, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
+Before I pass it to our speaker seeker, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? 
+
+>Pause for people to speak and to look for raised hands.    
+
 Okay, I will now turn the meeting over to our Speaker Seeker, Jackie.
 
 **Script at 11:20 - 11:25PM**
+    
 >The secretary may use discretion when closing the meeting, and can begin closing out between 11:20 and 11:25pm
 
 ### Most Days 
@@ -208,24 +210,9 @@ ___
 
 # The Promises 
 
-If we are painstaking about this phase of our development, 
-we will be amazed before we are halfway through.
-We are going to know a new freedom and a new happiness.
-We will not regret the past nor wish to shut the door on it.
-We will comprehend the word serenity and we will know peace.
-No matter how far down the scale we have gone, 
-we will see how our experience can benefit others.
-That feeling of uselessness and self-pity will disappear.
-We will lose interest in selfish things and gain interest in our fellows.
-Self-seeking will slip away.
-Our whole attitude and outlook upon life will change.
-Fear of people and of economic insecurity will leave us.
-We will intuitively know how to handle situations 
-which used to baffle us.
-We will suddenly realize that God is doing for us 
-what we could not do for ourselves.
-Are these extravagant promises? We think not. 
-They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them.
+If we are painstaking about this phase of our development, we will be amazed before we are halfway through. We are going to know a new freedom and a new happiness. We will not regret the past nor wish to shut the door on it. We will comprehend the word serenity and we will know peace. No matter how far down the scale we have gone, we will see how our experience can benefit others. That feeling of uselessness and self-pity will disappear. We will lose interest in selfish things and gain interest in our fellows. Self-seeking will slip away. Our whole attitude and outlook upon life will change. Fear of people and of economic insecurity will leave us. We will intuitively know how to handle situations which used to baffle us. We will suddenly realize that God is doing for us what we could not do for ourselves.    
+
+Are these extravagant promises? We think not. They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them.
 
 ___
 
