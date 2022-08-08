@@ -106,11 +106,15 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 <br>
 ___
 <br>
-Thank you readers... 
-<br>
-Is anyone here in their first 90 days of sobriety? (pause for people to speak and to look for raised hands)  
+Thank you readers.   
 
-Is this anyone’s first time at this meeting? (pause for people to speak and to look for raised hands)  
+Is anyone here in their first 90 days of sobriety? 
+
+>Pause for people to speak and to look for raised hands
+
+Is this anyone’s first time at this meeting? 
+
+>Pause for people to speak and to look for raised hands
 
 Glad everyone is here; keep coming back!  
 
