@@ -6,8 +6,8 @@ To sign in to the group account: username: itsnottoolate1030@gmail.com & passwor
 
 [Sign into Meeting](https://us04web.zoom.us/j/406536344)
 
-## To the Secretary...
-
+>**To the Secretary:**
+>
 >Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
 >
 >- How it Works 
