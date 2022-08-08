@@ -102,7 +102,8 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 
 **after daily reflection is read, stop screen sharing**    
 
-    
+___
+        
 Thank you readers.    
 
 Is anyone here in their first 90 days of sobriety? 
