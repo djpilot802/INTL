@@ -1,7 +1,3 @@
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
-
 # INTL Meeting Script 
 
 ## To the greeters and secretary: 
@@ -106,13 +102,13 @@ ___
 <br>
 Thank you readers... 
 <br>
-Is anyone here in their first 90 days of sobriety? (pause for people to speak and to look for raised hands)
+Is anyone here in their first 90 days of sobriety? (pause for people to speak and to look for raised hands)  
 
-Is this anyone’s first time at this meeting? (pause for people to speak and to look for raised hands)
+Is this anyone’s first time at this meeting? (pause for people to speak and to look for raised hands)  
 
-Glad everyone is here; keep coming back!
+Glad everyone is here; keep coming back!  
 
-Everyone who is available to sponsor please raise your hand and write your number in the group chat. Thank you for your service!
+Everyone who is available to sponsor please raise your hand and write your number in the group chat. Thank you for your service!  
 
 ## Everyday Script 
 
@@ -122,9 +118,10 @@ Here at the It’s Not Too Late meeting, someone brings a topic and then selects
 >When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
 <br>
-We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.
+We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. 
 
-Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
+Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)  
+
 I will now turn the meeting over to our Topic Bringer to present the topic, to share on the topic, and then to pass it on to someone else.
 
 ## Script for Wednesday's Literature Study
@@ -136,7 +133,7 @@ Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Stu
 >When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.
 
 <br>
-If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?
+If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?  
 <br>
 Before we get started, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
 
