@@ -18,11 +18,11 @@ To sign in to the group account: username: xxxx & password: xxxx (signing in thi
 
 **Using this Script:**
 >Mac Users: 
->- ⌘ & + to zoom in, ⌘ & - to zoom out 
+>- ⌘ & + to zoom in, ⌘ & - to zoom out, ⌘ & 0 to reset zoom
 >- ⌘ click on the Daily Reflection to open in a new tab
 >
 >Windows Users:
->- Ctrl & + to zoom in, Ctrl & - to zoom out 
+>- Ctrl & + to zoom in, Ctrl & - to zoom out, Ctrl & 0 to reset zoom
 >- Ctrl click the Daily Reflection to open in a new tab
 
 # It's Not Too Late Meeting Script 
