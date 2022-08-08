@@ -137,6 +137,7 @@ Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Stu
 
 >When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.
 
+<br>
 If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?
 
 Before we get started, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
