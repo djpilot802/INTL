@@ -196,5 +196,31 @@ what we could not do for ourselves.
 Are these extravagant promises? We think not. 
 They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them.
 
+# The Lord's Prayer 
 
+Our Father, who art in Heaven, hallowed be Thy name. 
+Thy kingdom come, Thy will be done, 
+On earth as it is in Heaven.
+Give us, this day, our daily bread. 
+And forgive us our trespasses, 
+as we forgive those who trespass against us.
+Lead us not into temptation, but deliver us from evil.
+For Thine is the Kingdom, 
+and the Power, and the Glory,
+Forever and ever. Amen
+
+# Third Step Prayer 
+
+God, I offer myself to Thee—to build with me and to do with me as Thou wilt. Relieve me of the bondage of self, that I may better do Thy will. Take away my difficulties, that victory over them may bear witness to those I would help of Thy Power, Thy Love, and Thy Way of life. May I do Thy will always!
+
+# Step 11 Prayer/St. Francis Prayer
+
+Lord, make me an instrument of thy peace. 
+That where there is hatred, I may bring love. 
+That where there is wrong, I may bring the spirit of forgiveness. That where there is discord, I may bring harmony. That where there is error, I may bring truth. That where there is doubt, I may bring faith. 
+That where there is despair, I may bring hope. 
+That where there are shadows, I may bring light. 
+That where there is sadness, I may bring joy. 
+Lord, grant that I may seek rather to comfort, than to be comforted. To Understand, than to be understood. To love, than to be loved. For it is by self-forgetting that one finds. It is by forgiving that one is forgiven. 
+It is by dying that one awakens to eternal life. Amen.
 
