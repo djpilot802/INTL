@@ -99,7 +99,9 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 **Now someone will read today's <a href = "https://www.aa.org/pages/en_US/daily-reflection" target="_blank" rel="noreferrer noopener">Daily Reflection</a>**
 
 **after daily reflection is read, stop screen sharing**
-
+<br>
+<br>
+<br>
 ___
 
 ## Resume Meeting Script
@@ -117,9 +119,11 @@ Everyone who is available to sponsor please raise your hand and write your numbe
 ## Everyday Script 
 
 Here at the It’s Not Too Late meeting, someone brings a topic and then selects someone to share. Then that person picks on someone else to share… and so on. If you have a desire to share, please raise your virtual hand or speak up after a share. 
-
+<br>
+<br>
 >When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
+<br>
 We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.
 
 Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)
@@ -128,6 +132,8 @@ I will now turn the meeting over to our Topic Bringer to present the topic, to s
 ## Script for Wednesday's Literature Study
 
 Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book and the 12&12. We will pick up where we left off two weeks ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else.. and so on. 
+<br>
+<br>
 
 >When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.
 
