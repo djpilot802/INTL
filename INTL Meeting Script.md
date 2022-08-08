@@ -28,6 +28,8 @@ and Wisdom to know the difference.
 AA is a fellowship of people who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover from alcoholism. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussions to our problem with alcohol. And, most importantly, to the solution.
 Now someone will volunteer to read “How it Works” from the A.A. Big Book, which I will share on the screen…     
 
+___
+
  # How it Works
 
 Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest. 
@@ -58,8 +60,6 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 - (b) That probably no human power could have relieved our alcoholism. 
 - (c) That God could and would if He were sought. 
 
-</details>
-
 **Now a friend will read the 12 Traditions**
 
 # The Twelve Traditions of Alcoholics Anonymous
@@ -82,6 +82,8 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 **Now someone will read today's <a href = "https://www.aa.org/pages/en_US/daily-reflection" target="_blank" rel="noreferrer noopener">Daily Reflection</a>**
 
 **after daily reflection is read, stop screen sharing**
+
+___
 
 ## Resume Meeting Script
 
@@ -175,6 +177,8 @@ INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 
 Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
 
+___
+
 # The Promises 
 
 If we are painstaking about this phase of our development, 
@@ -196,6 +200,8 @@ what we could not do for ourselves.
 Are these extravagant promises? We think not. 
 They are being fulfilled among us—sometimes quickly, sometimes slowly. They will always materialize if we work for them.
 
+___
+
 Alright everyone, thank you for a great meeting. 
 
 We will now close the meeting with the Lord’s Prayer or a prayer of your choice. Please join us while on mute.  
@@ -203,6 +209,7 @@ We will now close the meeting with the Lord’s Prayer or a prayer of your choic
 >(Whoever picked up a chip for the most time tonight can close with a prayer - or pick someone randomly).
 _______________; will you take us out?
 
+___
 
 # The Lord's Prayer 
 
