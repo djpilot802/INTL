@@ -145,10 +145,9 @@ Here at the It’s Not Too Late meeting, someone brings a topic and then selects
 
 >When there are 16+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
-<br>
 We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.    
-            
-Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? 
+
+Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about?    
 
 >Pause for people to speak and to look for raised hands.   
  
@@ -168,7 +167,7 @@ Before we get started, is anyone having a desire to drink today or have anything
 
 **Post Links in Chat**    
 
-```
+```html
 Big Book PDF: 
 
 https://www.aa.org/pages/en_us/alcoholics-anonymous
@@ -218,7 +217,7 @@ Our monthly group conscience meeting is the last Saturday of every month at 11:4
 
 
 **Paste below in the meeting chat:**
-```
+```html
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
 Service Work Signup: https://bit.ly/3v9aFO7
