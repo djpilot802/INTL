@@ -165,7 +165,7 @@ Before we get started, is anyone having a desire to drink today or have anything
 
 **Post Links in Chat**    
 
-```ruby
+```
 Big Book PDF: 
 
 https://www.aa.org/pages/en_us/alcoholics-anonymous
@@ -215,7 +215,7 @@ Our monthly group conscience meeting is the last Saturday of every month at 11:4
 
 **Paste below in the meeting chat:**   
 
-```ruby
+```
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
 Service Work Signup: https://bit.ly/3v9aFO7
