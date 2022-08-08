@@ -100,12 +100,8 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 
 **Now someone will read today's <a href = "https://www.aa.org/pages/en_US/daily-reflection" target="_blank" rel="noreferrer noopener">Daily Reflection</a>**
 
-**after daily reflection is read, stop screen sharing**\
-\
-\
-\
-\
-___
+**after daily reflection is read, stop screen sharing**    
+
     
 Thank you readers.    
 
