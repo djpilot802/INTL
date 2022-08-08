@@ -127,18 +127,18 @@ Here at the It’s Not Too Late meeting, someone brings a topic and then selects
 
 <br>
 We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.    
-    
-Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)  
+            
+Before I turn it over, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? (pause for people to speak and to look for raised hands)    
 
 I will now turn the meeting over to our Topic Bringer to present the topic, to share on the topic, and then to pass it on to someone else.
 
 ## Script for Wednesday's Literature Study
 
-Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book and the 12&12. We will pick up where we left off two weeks ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else.. and so on. 
+Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book and the 12&12. We will pick up where we left off two weeks ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else.. and so on.    
 <br>
 <br>
 
->When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.
+>When there are 12+ people active in the meeting (not just listening), say the following: In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes - the timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up.    
 
 <br>
 If you have a desire to read and/or share, please raise your virtual hand or speak up after a share. We try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship. Can I have a volunteer to be our timekeeper tonight?  
