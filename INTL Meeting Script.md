@@ -170,7 +170,13 @@ If you have a desire to read and/or share, please raise your virtual hand or spe
 
 Before we get started, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? 
 
->Pause for people to speak and to look for raised hands.   
+>Pause for people to speak and to look for raised hands.
+
+>Links for Secretary: 
+>
+>- [Big Book](https://www.aa.org/pages/en_us/alcoholics-anonymous)
+>- [12 & 12](https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
+)
 
 **Post Links in Chat**    
 
