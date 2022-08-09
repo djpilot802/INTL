@@ -126,9 +126,7 @@ Our description of the alcoholic, the chapter to the agnostic and our personal a
 
 # The Daily Reflection
 
-**Now someone will read today's [Daily Reflection](http://stackoverflow.com){:target="_blank" rel="noopener"}**
-
-
+**Now someone will read today's <a href="https://www.aa.org/daily-reflection" target="_blank">Daily Reflection</a>**
 
 **after daily reflection is read, stop screen sharing**    
 
