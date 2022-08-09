@@ -6,7 +6,7 @@ To sign in to the group account:
 
 - Check the TimeTree for credentials
 - Sign in to the INTL account -- this can be done in Zoom or via the [zoom website](https://zoom.us/)
-- Signing in this way will make you a "host" or "co-host," which allows you to monitor the waiting roomm & mute others if they forgot to mute
+- Signing in this way will make you a "host" or "co-host," which allows you to monitor the waiting room & mute others if they forgot to mute
 - Rename yourself to reflect your actual name
 - If you receive any error messages, reach out to the group for help
 
