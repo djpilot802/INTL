@@ -10,6 +10,14 @@ To sign in to the group account:
 - Rename yourself to reflect your actual name
 - If you receive any error messages, reach out to the group for help
 
+Helpful links: 
+
+- [INTL Timeree](timetreeapp.com/calendars/SRx7BmTyN7Hw)
+- [Zoom] (https://zoom.us/)
+- [Direct Launch INTL Meeting](https://us04web.zoom.us/j/406536344)
+- [View INTL Meeting on Intergroup Site](http://charlotteaa.org/meetings/its-not-too-late-4/)
+- [Charlotte AA Intergroup Site](http://charlotteaa.org/)
+
 #### Greeter Intructions: 
 
 - Admit people when they enter the waiting room
@@ -17,7 +25,7 @@ To sign in to the group account:
 
 #### Preventing Zoom Bombing:
 
-> A “zoom bombing” is when someone interrupts the meeting with visual or auditory harassment. This often comes in the form of screaming obscenities or displaying inappropriate imagery.
+> 'Zoom bombing' is when someone interrupts the meeting with visual or auditory harassment. This often comes in the form of screaming obscenities or displaying inappropriate imagery.
 
  - Monitor people that enter the meeting from the waiting room without video on in order to decrease the chance of a “zoom bombing.” Especially watch anyone entering with an unusual username and/or a name you do not recognize.
  - Once the meeting begins click on 'security' and uncheck 'allow participants to rename themselves' 
