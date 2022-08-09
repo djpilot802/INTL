@@ -13,7 +13,7 @@ To sign in to the group account:
 Helpful links: 
 
 - [INTL Timeree](timetreeapp.com/calendars/SRx7BmTyN7Hw)
-- [Zoom] (https://zoom.us/)
+- [Zoom](https://zoom.us/)
 - [Direct Launch INTL Meeting](https://us04web.zoom.us/j/406536344)
 - [View INTL Meeting on Intergroup Site](http://charlotteaa.org/meetings/its-not-too-late-4/)
 - [Charlotte AA Intergroup Site](http://charlotteaa.org/)
