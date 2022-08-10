@@ -233,7 +233,9 @@ Our monthly group conscience meeting is the last Saturday of every month at 11:4
 ```
 It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
-Service Work Signup: https://bit.ly/3v9aFO7
+Service Work Signup: 
+
+https://bit.ly/3SumXL6
 
 INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
