@@ -39,6 +39,10 @@ def accept():
 def zoom():
     return render_template("index.html")
 
+@app.route('/script')
+def script():
+    return render_template("script.html")
+
 if __name__ == "__main__":
     # This allows us to use a plain HTTP callback
     os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = "1"
